@@ -1,6 +1,7 @@
 <div align="center">
-  <img height="206" src="https://i.ibb.co.com/WDbnx3n/1695985092554.jpg"/>
+  <img height="206" src="https://i.ibb.co.com/QQp9v5W/Black-Minimal-Motivation-Quote-Linked-In-Banner.png"  />
 </div>
+
 
 ###
 
@@ -57,19 +58,6 @@ I am **Charbon Dey Sarker**, a dedicated Front-End Developer from Bangladesh. My
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="Figma" />
 </div>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chrabondey&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chrabondey&theme=radical" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrabondey&layout=compact&theme=radical" alt="Top Languages" />
-</p>
 
 ---
 
@@ -84,6 +72,23 @@ I am **Charbon Dey Sarker**, a dedicated Front-End Developer from Bangladesh. My
   <a href="https://www.behance.net/chrabondey" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="Behance" height="30" width="40" /></a>
   <a href="https://medium.com/@chrabondey" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="Medium" height="30" width="40" /></a>
 </p>
+
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chrabondey&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chrabondey&theme=radical" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chrabondey&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+
 
 
 
