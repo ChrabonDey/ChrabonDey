@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="206" src="https://i.ibb.co/WDbnx3n/1695985092554.jpg" alt="Profile Banner" />
+  <img height="206" src="https://i.ibb.co.com/QQp9v5W/Black-Minimal-Motivation-Quote-Linked-In-Banner.png" alt="Profile Banner" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Chrabon Dey</h1>
